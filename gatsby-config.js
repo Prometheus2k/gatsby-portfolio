@@ -23,5 +23,6 @@ module.exports = {
     title: "Net Ninja",
     description: "web dev portfolio",
     copyright: "This website is copyright 2022 Net Ninja",
+    contact: "me@netninjaind.com",
   },
 }
